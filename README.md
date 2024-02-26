@@ -1,7 +1,3 @@
-<img align="center" alt="HTML" width="100%" height="200px" style="padding-right:10px;" src="https://www.mainejewish.org/wp-content/uploads/2017/10/CDC-Banner-Sunset.jpg" />
-
-<h1></h1>
-
 <h1 align="center"> Hello there👋, I'm Vlad </h1>
 
 ***I am a dedicated student with a passion for programming, aspiring to evolve into a proficient coder. My journey is not just about writing code; it's about constantly learning and growing, pushing my boundaries to become the best version of myself.***
