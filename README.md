@@ -38,7 +38,7 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladboj&layout=compact&theme=gruvbox&langs_count=12">
+        <img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladboj&layout=compact&theme=gruvbox&langs_count=16">
       </a>
     </td>
     <td>
